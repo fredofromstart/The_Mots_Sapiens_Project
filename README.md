@@ -8,13 +8,15 @@ Journal Entry n° 1
 a.k.a.
 
 
+
 What is the Mots Sapiens Project ?
 ***********************************
 
 a presentation
 
 
-Note on the name : in French, « mots » translates as ~words~ (the ending consonants are silent, so « Mots Sapiens » rhymes with « Homo Sapiens »). « Sapiens » means ~wise~… Let's see if there is any wisdom in the words we use everyday. ^^
+
+Note on the name : In French, « mots » translates as ~words~ (the ending consonants are silent, so « Mots Sapiens » rhymes with « Homo Sapiens »). « Sapiens » means ~wise~… Let's see if there is any wisdom in the words we use everyday. ^^
 
 
 
@@ -34,7 +36,7 @@ In two words, The Mots Sapiens Project aims at building a fully functional « wi
 
 In more twisting words now, a wish machine is a software designed to inform wishers of which wishers are wishing wishes that are satisfactory answers to the wishes that are listed in their wish lists. (We are talking about concrete, practical wishes, here, not about some wishy-washy kind of stuff !^)
 
-Users with matching wishes will be informed of one another's existence and eventually will communicate and meet. In the end, it is up to them whether of not any wishes are granted. ~That's~ the real magic of the whole concept : ~communicating beings~ are the ones who will propel the whole thing by their needs and perhaps dreams as much as by their responses to one another. The wish machine is, in itself, something like an extension, a development of the faculty of communication ; after language and alphabet and press and the net : a new tool, an ~emergeware~.
+Users with matching wishes will be informed of one another's existence and eventually will communicate and meet. In the end, it is up to them whether or not any wishes are granted. ~That's~ the real magic of the whole concept : ~communicating beings~ are the ones who will propel the whole thing by their needs and perhaps dreams as much as by their responses to one another. The wish machine is, in itself, something like an extension, a development of the faculty of communication ; after language and alphabet and press and the net : a new tool, an ~emergeware~.
 
 This tool does more than organize fixed-in scheduled activities. With operational wish machines around, you simply, day by day, ~as you wish~ indeed, state what you wish for the moment and you will be informed of which other people are presently wishing something that is an appropriate answer to what you wish (of course, people wish to offer as well as to obtain, and maybe even more : ~to share~).
 
@@ -62,7 +64,7 @@ The format for a wish is this :
 
 a wish, expressed in one way // the same wish, but expressed in a different manner, possibly in a different language // again exactly the same wish, yet formulated in another fashion // etc. << an example of a wish that would answer this one adequately // another way to express that example << a different example of a wish that would be an adequate answer // another way to express that example // etc. 
 
-Notes : The period belongs with « the etc. » (which stands for yet another manner of expression), no ending period is necessary for the formulations. Any formulation can be written in any language. Also, if you make the « << » « >> », it becomes to mean that the first wish is an offer you make that would be an adequate answer to the following wishes (all preceded with « >> » instead of « << »). For objects, you may simply write the name of the object in many languages or in many synonymous ways (without the verb) and use either « << » or « >> » after that to indicate if the object is wanted of offered. To indicate that your wish is urgent, simply include the word « urgent », or a synonym in your wish.
+Notes : The period belongs with « the etc. » (which stands for yet another manner of expression), no ending period is necessary for the formulations. Any formulation can be written in any language. Also, if you make the « << » « >> », it becomes to mean that the first wish is an offer you make that would be an adequate answer to the following wishes (all preceded with « >> » instead of « << »). For objects, you may simply write the name of the object in many languages or in many synonymous ways (without the verb) and use either « << » or « >> » after that to indicate if the object is wanted of offered. To indicate that your wish is urgent, simply include the word « urgent » (or a synonym) in your wish.
 
 If the wish is not followed by either a « << » nor a « >> », the wish machine will assume that the wish is not a demand nor an offer, but an ~interest~ that the wisher is hoping to share with someone who has the same interest.
 
