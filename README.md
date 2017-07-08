@@ -141,7 +141,7 @@ My blog :
 
 Please, do download any of the available wish machines versions on this repository and try them out !
 
-To install a Ruby interpreter on your computer, so as to be able to run the script, I recommend this site : http://www.ruby-lang.org/en/downloads/ — I chose the second installation option. 
+To install a Ruby interpreter on your computer, so as to be able to run the script, I recommend this site : http://www.ruby-lang.org/en/downloads/. 
 
 To launch the script, enter « ruby tramice_721.0.0.1.rb » on the command line.
 
