@@ -45,7 +45,7 @@ Let us muse for an instant on the idea of a « communicational era » where the
 As dreamlike as this may sound in the somewhat wrecked and mislead world of 2013, isn't the idea of a communicational, emergent world an interesting avenue to consider ?
 
 
-HOW IS A WISH MACHINE EVEN POSSIBLE ?
+HOW IS A « WISH MACHINE » EVEN POSSIBLE ?
 
 The approach chosen here takes advantage of the inherent coherence of language and communication. We will simply feed our wish machines wishes written in our common natural languages.
 
